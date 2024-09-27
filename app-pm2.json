@@ -1,0 +1,9 @@
+{
+	"apps":[
+		{
+			"name":"strs-app",
+			"script":"npm",
+			"args":"start"
+		}
+		]
+}

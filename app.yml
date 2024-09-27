@@ -1,0 +1,6 @@
+apps:
+  -
+    name: srts-web-service
+    restart_delay: 100
+    script: server.js
+    autorestart: true
